@@ -1,4 +1,4 @@
-# berlin-1940
+# Slovak cipher telegram to Berlin (14 June 1940)
 
 Coherent fixed-key partial continuation. Incomplete alphabet, prior full-image exposure, masks and three distinct saved states remain explicit.
 
