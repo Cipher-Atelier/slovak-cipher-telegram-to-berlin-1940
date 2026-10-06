@@ -1,0 +1,12 @@
+{
+  "berlin-1940": {
+    "published_scope": "Computational holdout and coherent continuation; incomplete alphabet.",
+    "published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/berlin-1940/README.md",
+    "primary_and_prior_sources": [
+      "https://crypto.hcportal.eu/dashboard/cryptograms/128",
+      "https://api.hcportal.eu/media/337/41991655394777.jpg",
+      "https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf"
+    ],
+    "remaining_limits": "Full image was seen before split; source choices and quantities remain unresolved. Search/model rerun is distinct from saved-key replay."
+  }
+}

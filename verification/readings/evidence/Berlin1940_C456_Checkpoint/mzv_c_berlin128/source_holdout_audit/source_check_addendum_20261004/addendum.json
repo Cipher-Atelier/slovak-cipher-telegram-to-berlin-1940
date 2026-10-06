@@ -1,0 +1,193 @@
+{
+  "target": "HCP128",
+  "audit_type": "Post-evaluation targeted source-image recheck addendum",
+  "source_url": "https://api.hcportal.eu/media/337/41991655394777.jpg",
+  "source_local_path": "[private working path omitted]",
+  "source_sha256": "8bc18278afc43ebde291e240e2f761c18aaa856c8d31f7ef0eedda5fc36c3a30",
+  "requested_transmitted_positions": [
+    384,
+    411,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436
+  ],
+  "initial_audit_json_sha256": "4a0d472861608956ade6818e5fe895feaecb42818f70da59f2163306d7464b3c",
+  "initial_audit_preserved_unchanged": true,
+  "revised_positions": [
+    384,
+    411
+  ],
+  "retained_unresolved_position": 428,
+  "rechecked_span_425_436_grouped": "r | ei?fr | oyeur\nf",
+  "method": "Manual reading of original RGB crops and direct B-channel extracts, with explicit 3x or 4x nearest-neighbor pixel replication. Nearby source letterforms were inspected for comparison. No generated enhancement or OCR.",
+  "selection_caveat": "The parent selected these positions for reinspection after key evaluation, but supplied no proposed replacement letters. This is a targeted post-evaluation source addendum; do not silently substitute it for the original pre-evaluation heldout transcription when reporting evaluation chronology.",
+  "reader_independence": "The reader was not shown and did not open any computed output, key, expected plaintext, control material, or proposed replacement letters. The two changes are grounded only in newly enlarged source glyphs.",
+  "prior_initial_image_exposure_caveat": "An overbroad locator displayed these rows during the earlier training task. They were not formally transcribed or used then; this caveat remains as recorded in the original audit.",
+  "records": [
+    {
+      "transmitted_position_1based": 384,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "original_audit_reading": "i",
+      "addendum_reading": "f",
+      "status": "revised",
+      "source_reason": "The larger original RGB and direct blue-channel crops show the stem connected to a curled upper hook. This is an f letterform, rather than a detached dot over an i stem.",
+      "supporting_crop": "position_384_group_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 411,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "original_audit_reading": "n",
+      "addendum_reading": "m",
+      "status": "revised",
+      "source_reason": "The close original-pixel crop and direct blue channel show two internal arches and three stems. Comparison with the source page’s nearby m and n forms supports m. The watermark crosses the right portion of this letter.",
+      "supporting_crop": "position_411_close_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 425,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "original_audit_reading": "r",
+      "addendum_reading": "r",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_425_430_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 426,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "original_audit_reading": "e",
+      "addendum_reading": "e",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_425_430_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 427,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "original_audit_reading": "i",
+      "addendum_reading": "i",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_425_430_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 428,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "original_audit_reading": "?",
+      "addendum_reading": "?",
+      "status": "uncertainty_retained",
+      "visual_preference": "a",
+      "candidates": null,
+      "source_reason": "The glyph is overstruck/smudged. Enlargement does not reveal a secure character or an exhaustive finite alternative set. Preserve ?; do not force the visual preference a.",
+      "supporting_crop": "position_428_close_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 429,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "original_audit_reading": "f",
+      "addendum_reading": "f",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_425_430_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 430,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "original_audit_reading": "r",
+      "addendum_reading": "r",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_425_430_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 431,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "original_audit_reading": "o",
+      "addendum_reading": "o",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_431_435_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 432,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "original_audit_reading": "y",
+      "addendum_reading": "y",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_431_435_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 433,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "original_audit_reading": "e",
+      "addendum_reading": "e",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_431_435_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 434,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "original_audit_reading": "u",
+      "addendum_reading": "u",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_431_435_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 435,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "original_audit_reading": "r",
+      "addendum_reading": "r",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "span_431_435_context_zoom_original.png"
+    },
+    {
+      "transmitted_position_1based": 436,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "original_audit_reading": "f",
+      "addendum_reading": "f",
+      "status": "retained",
+      "source_reason": "Original RGB and direct blue-channel reinspection did not support a change.",
+      "supporting_crop": "position_436_group_zoom_original.png"
+    }
+  ]
+}

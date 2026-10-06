@@ -1,0 +1,3472 @@
+{
+  "target": "HCP128",
+  "source_url": "https://api.hcportal.eu/media/337/41991655394777.jpg",
+  "source_local_path": "[private working path omitted]",
+  "source_sha256": "8bc18278afc43ebde291e240e2f761c18aaa856c8d31f7ef0eedda5fc36c3a30",
+  "source_dimensions_px": [
+    3024,
+    4032
+  ],
+  "coordinate_convention": "[left,top,right,bottom], source original pixels; right/bottom exclusive",
+  "scope": "First seven physical ciphertext rows only. The final three physical ciphertext rows were excluded from transcription and analysis.",
+  "expected_letter_positions": 335,
+  "observed_letter_positions": 335,
+  "groups_per_row": [
+    7,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "finite_alternative_position_count": 2,
+  "unbounded_unknown_position_count": 0,
+  "method": "Independent manual image transcription. Original RGB crops, direct B-channel extractions compared with original RGB, and explicitly labeled 3x nearest-neighbor pixel replication were used. No OCR, generated restoration, solving, other cipher transcript, key, or model transcript was consulted.",
+  "boundary_incident": {
+    "description": "Initial locator crop [0,0,3024,2000] unintentionally displayed reserved rows before their y-boundary was known. No reserved row was transcribed or used. The broad locator crop was immediately removed; parent was informed and explicitly authorized continued training-only transcription.",
+    "consequence": "Computational fitting holdout, not a perfectly image-blind reader.",
+    "subsequent_scope": "All subsequent inspection and saved crops are restricted to the first seven ciphertext rows; some crops also contain partial neighboring authorized rows or administrative header."
+  },
+  "rows": [
+    {
+      "physical_row": 1,
+      "group_count": 7,
+      "letter_position_count": 35,
+      "start_position_1based": 1,
+      "end_position_1based": 35,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "eoynv axjrd apurk jvaqu rorxk ythyb rwrrk",
+      "ambiguity_preserving_grouped": "eoynv axjrd apurk jvaqu rorxk ythyb rwrrk",
+      "strict_grouped": "eoynv axjrd apurk jvaqu rorxk ythyb rwrrk"
+    },
+    {
+      "physical_row": 2,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 36,
+      "end_position_1based": 85,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "jeroa maows xebuw trofa bbrer tabro rxvtu drqei yuwht svyrk",
+      "ambiguity_preserving_grouped": "jeroa maows xebuw trofa bbrer tabro rxvtu drqei yuwht svyrk",
+      "strict_grouped": "jeroa maows xebuw trofa bbrer tabro rxvtu drqei yuwht svyrk"
+    },
+    {
+      "physical_row": 3,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 86,
+      "end_position_1based": 135,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "jpeeb jexyo anyow rwure pjeda fuxab kaxaw rturo ywyvt aiydi",
+      "ambiguity_preserving_grouped": "jpeeb jexyo anyow rwure pjeda fuxab kaxaw rturo ywyvt aiydi",
+      "strict_grouped": "jpeeb jexyo anyow rwure pjeda fuxab kaxaw rturo ywyvt aiydi"
+    },
+    {
+      "physical_row": 4,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 136,
+      "end_position_1based": 185,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "atriw jbfuw uiyxa brkje oacrp dasit uiueu fprha wapfy bywis",
+      "ambiguity_preserving_grouped": "atriw jbfuw uiyxa brkje oa[c/o]rp dasit uiueu fprha wapfy bywis",
+      "strict_grouped": "atriw jbfuw uiyxa brkje oa?rp dasit uiueu fprha wapfy bywis"
+    },
+    {
+      "physical_row": 5,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 186,
+      "end_position_1based": 235,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "vtyiy wiata dbamx akjiu nwyoq rvafr iyeia vorxy npjey ituis",
+      "ambiguity_preserving_grouped": "vtyiy wiata dbamx akjiu nwyoq rvafr iyeia vorxy npjey ituis",
+      "strict_grouped": "vtyiy wiata dbamx akjiu nwyoq rvafr iyeia vorxy npjey ituis"
+    },
+    {
+      "physical_row": 6,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 236,
+      "end_position_1based": 285,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "brert rdyoj baqwa qrfri eoaor pdrbu oatue yrfuk jiueu fprha",
+      "ambiguity_preserving_grouped": "brert rdyoj baqwa qrfri eoaor pdrbu oatue yrfuk jiueu fprha",
+      "strict_grouped": "brert rdyoj baqwa qrfri eoaor pdrbu oatue yrfuk jiueu fprha"
+    },
+    {
+      "physical_row": 7,
+      "group_count": 10,
+      "letter_position_count": 50,
+      "start_position_1based": 286,
+      "end_position_1based": 335,
+      "source_case": "lowercase",
+      "visual_preference_grouped": "wapwy bomxa kjiqp jeywy vropy iueuf eiavv aquro rmiyk ythyb",
+      "ambiguity_preserving_grouped": "wapwy bomxa kjiqp jeywy [v/w]ropy iueuf eiavv aquro rmiyk ythyb",
+      "strict_grouped": "wapwy bomxa kjiqp jeywy ?ropy iueuf eiavv aquro rmiyk ythyb"
+    }
+  ],
+  "positions": [
+    {
+      "position_1based": 1,
+      "physical_row": 1,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 2,
+      "physical_row": 1,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 3,
+      "physical_row": 1,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 4,
+      "physical_row": 1,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "position_1based": 5,
+      "physical_row": 1,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 6,
+      "physical_row": 1,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 7,
+      "physical_row": 1,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 8,
+      "physical_row": 1,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 9,
+      "physical_row": 1,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 10,
+      "physical_row": 1,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 11,
+      "physical_row": 1,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 12,
+      "physical_row": 1,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 13,
+      "physical_row": 1,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 14,
+      "physical_row": 1,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 15,
+      "physical_row": 1,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 16,
+      "physical_row": 1,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 17,
+      "physical_row": 1,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 18,
+      "physical_row": 1,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 19,
+      "physical_row": 1,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 20,
+      "physical_row": 1,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 21,
+      "physical_row": 1,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 22,
+      "physical_row": 1,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 23,
+      "physical_row": 1,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 24,
+      "physical_row": 1,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 25,
+      "physical_row": 1,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 26,
+      "physical_row": 1,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 27,
+      "physical_row": 1,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 28,
+      "physical_row": 1,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "position_1based": 29,
+      "physical_row": 1,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 30,
+      "physical_row": 1,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 31,
+      "physical_row": 1,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 32,
+      "physical_row": 1,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 33,
+      "physical_row": 1,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 34,
+      "physical_row": 1,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 35,
+      "physical_row": 1,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 36,
+      "physical_row": 2,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 37,
+      "physical_row": 2,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 38,
+      "physical_row": 2,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 39,
+      "physical_row": 2,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 40,
+      "physical_row": 2,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 41,
+      "physical_row": 2,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "position_1based": 42,
+      "physical_row": 2,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 43,
+      "physical_row": 2,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 44,
+      "physical_row": 2,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 45,
+      "physical_row": 2,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "position_1based": 46,
+      "physical_row": 2,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 47,
+      "physical_row": 2,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 48,
+      "physical_row": 2,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 49,
+      "physical_row": 2,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 50,
+      "physical_row": 2,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 51,
+      "physical_row": 2,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 52,
+      "physical_row": 2,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 53,
+      "physical_row": 2,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 54,
+      "physical_row": 2,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 55,
+      "physical_row": 2,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 56,
+      "physical_row": 2,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 57,
+      "physical_row": 2,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 58,
+      "physical_row": 2,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 59,
+      "physical_row": 2,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 60,
+      "physical_row": 2,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 61,
+      "physical_row": 2,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 62,
+      "physical_row": 2,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 63,
+      "physical_row": 2,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 64,
+      "physical_row": 2,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 65,
+      "physical_row": 2,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 66,
+      "physical_row": 2,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 67,
+      "physical_row": 2,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 68,
+      "physical_row": 2,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 69,
+      "physical_row": 2,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 70,
+      "physical_row": 2,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 71,
+      "physical_row": 2,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 72,
+      "physical_row": 2,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 73,
+      "physical_row": 2,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 74,
+      "physical_row": 2,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 75,
+      "physical_row": 2,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 76,
+      "physical_row": 2,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 77,
+      "physical_row": 2,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 78,
+      "physical_row": 2,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 79,
+      "physical_row": 2,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "position_1based": 80,
+      "physical_row": 2,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 81,
+      "physical_row": 2,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "position_1based": 82,
+      "physical_row": 2,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 83,
+      "physical_row": 2,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 84,
+      "physical_row": 2,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 85,
+      "physical_row": 2,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 86,
+      "physical_row": 3,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 87,
+      "physical_row": 3,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 88,
+      "physical_row": 3,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 89,
+      "physical_row": 3,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 90,
+      "physical_row": 3,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 91,
+      "physical_row": 3,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 92,
+      "physical_row": 3,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 93,
+      "physical_row": 3,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 94,
+      "physical_row": 3,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 95,
+      "physical_row": 3,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 96,
+      "physical_row": 3,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 97,
+      "physical_row": 3,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "position_1based": 98,
+      "physical_row": 3,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 99,
+      "physical_row": 3,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 100,
+      "physical_row": 3,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 101,
+      "physical_row": 3,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 102,
+      "physical_row": 3,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 103,
+      "physical_row": 3,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 104,
+      "physical_row": 3,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 105,
+      "physical_row": 3,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 106,
+      "physical_row": 3,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 107,
+      "physical_row": 3,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 108,
+      "physical_row": 3,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 109,
+      "physical_row": 3,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 110,
+      "physical_row": 3,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 111,
+      "physical_row": 3,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 112,
+      "physical_row": 3,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 113,
+      "physical_row": 3,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 114,
+      "physical_row": 3,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 115,
+      "physical_row": 3,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 116,
+      "physical_row": 3,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 117,
+      "physical_row": 3,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 118,
+      "physical_row": 3,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 119,
+      "physical_row": 3,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 120,
+      "physical_row": 3,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 121,
+      "physical_row": 3,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 122,
+      "physical_row": 3,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 123,
+      "physical_row": 3,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 124,
+      "physical_row": 3,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 125,
+      "physical_row": 3,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 126,
+      "physical_row": 3,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 127,
+      "physical_row": 3,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 128,
+      "physical_row": 3,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 129,
+      "physical_row": 3,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 130,
+      "physical_row": 3,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 131,
+      "physical_row": 3,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 132,
+      "physical_row": 3,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 133,
+      "physical_row": 3,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 134,
+      "physical_row": 3,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 135,
+      "physical_row": 3,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 136,
+      "physical_row": 4,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 137,
+      "physical_row": 4,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 138,
+      "physical_row": 4,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 139,
+      "physical_row": 4,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 140,
+      "physical_row": 4,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 141,
+      "physical_row": 4,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 142,
+      "physical_row": 4,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 143,
+      "physical_row": 4,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 144,
+      "physical_row": 4,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 145,
+      "physical_row": 4,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 146,
+      "physical_row": 4,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 147,
+      "physical_row": 4,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 148,
+      "physical_row": 4,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 149,
+      "physical_row": 4,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 150,
+      "physical_row": 4,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 151,
+      "physical_row": 4,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 152,
+      "physical_row": 4,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 153,
+      "physical_row": 4,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 154,
+      "physical_row": 4,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 155,
+      "physical_row": 4,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 156,
+      "physical_row": 4,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 157,
+      "physical_row": 4,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 158,
+      "physical_row": 4,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "finite_alternatives",
+      "candidates": [
+        "c",
+        "o"
+      ],
+      "visual_preference": "c",
+      "reason": "Rounded letter partially crossed by horizontal watermark; c is the visual preference, o retained."
+    },
+    {
+      "position_1based": 159,
+      "physical_row": 4,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 160,
+      "physical_row": 4,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 161,
+      "physical_row": 4,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 162,
+      "physical_row": 4,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 163,
+      "physical_row": 4,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "position_1based": 164,
+      "physical_row": 4,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 165,
+      "physical_row": 4,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 166,
+      "physical_row": 4,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 167,
+      "physical_row": 4,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 168,
+      "physical_row": 4,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 169,
+      "physical_row": 4,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 170,
+      "physical_row": 4,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 171,
+      "physical_row": 4,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 172,
+      "physical_row": 4,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 173,
+      "physical_row": 4,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 174,
+      "physical_row": 4,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "position_1based": 175,
+      "physical_row": 4,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 176,
+      "physical_row": 4,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 177,
+      "physical_row": 4,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 178,
+      "physical_row": 4,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 179,
+      "physical_row": 4,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 180,
+      "physical_row": 4,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 181,
+      "physical_row": 4,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 182,
+      "physical_row": 4,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 183,
+      "physical_row": 4,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 184,
+      "physical_row": 4,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 185,
+      "physical_row": 4,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "position_1based": 186,
+      "physical_row": 5,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 187,
+      "physical_row": 5,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 188,
+      "physical_row": 5,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 189,
+      "physical_row": 5,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 190,
+      "physical_row": 5,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 191,
+      "physical_row": 5,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 192,
+      "physical_row": 5,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 193,
+      "physical_row": 5,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 194,
+      "physical_row": 5,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 195,
+      "physical_row": 5,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 196,
+      "physical_row": 5,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 197,
+      "physical_row": 5,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 198,
+      "physical_row": 5,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 199,
+      "physical_row": 5,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "position_1based": 200,
+      "physical_row": 5,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 201,
+      "physical_row": 5,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 202,
+      "physical_row": 5,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 203,
+      "physical_row": 5,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 204,
+      "physical_row": 5,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 205,
+      "physical_row": 5,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 206,
+      "physical_row": 5,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "position_1based": 207,
+      "physical_row": 5,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 208,
+      "physical_row": 5,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 209,
+      "physical_row": 5,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 210,
+      "physical_row": 5,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 211,
+      "physical_row": 5,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 212,
+      "physical_row": 5,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 213,
+      "physical_row": 5,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 214,
+      "physical_row": 5,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 215,
+      "physical_row": 5,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 216,
+      "physical_row": 5,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 217,
+      "physical_row": 5,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 218,
+      "physical_row": 5,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 219,
+      "physical_row": 5,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 220,
+      "physical_row": 5,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 221,
+      "physical_row": 5,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 222,
+      "physical_row": 5,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 223,
+      "physical_row": 5,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 224,
+      "physical_row": 5,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 225,
+      "physical_row": 5,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 226,
+      "physical_row": 5,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "position_1based": 227,
+      "physical_row": 5,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 228,
+      "physical_row": 5,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 229,
+      "physical_row": 5,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 230,
+      "physical_row": 5,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 231,
+      "physical_row": 5,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 232,
+      "physical_row": 5,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 233,
+      "physical_row": 5,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 234,
+      "physical_row": 5,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 235,
+      "physical_row": 5,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "position_1based": 236,
+      "physical_row": 6,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 237,
+      "physical_row": 6,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 238,
+      "physical_row": 6,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 239,
+      "physical_row": 6,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 240,
+      "physical_row": 6,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 241,
+      "physical_row": 6,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 242,
+      "physical_row": 6,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 243,
+      "physical_row": 6,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 244,
+      "physical_row": 6,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 245,
+      "physical_row": 6,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 246,
+      "physical_row": 6,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 247,
+      "physical_row": 6,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 248,
+      "physical_row": 6,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 249,
+      "physical_row": 6,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 250,
+      "physical_row": 6,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 251,
+      "physical_row": 6,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 252,
+      "physical_row": 6,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 253,
+      "physical_row": 6,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 254,
+      "physical_row": 6,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 255,
+      "physical_row": 6,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 256,
+      "physical_row": 6,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 257,
+      "physical_row": 6,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 258,
+      "physical_row": 6,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 259,
+      "physical_row": 6,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 260,
+      "physical_row": 6,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 261,
+      "physical_row": 6,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 262,
+      "physical_row": 6,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "position_1based": 263,
+      "physical_row": 6,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 264,
+      "physical_row": 6,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 265,
+      "physical_row": 6,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 266,
+      "physical_row": 6,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 267,
+      "physical_row": 6,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 268,
+      "physical_row": 6,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 269,
+      "physical_row": 6,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 270,
+      "physical_row": 6,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 271,
+      "physical_row": 6,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 272,
+      "physical_row": 6,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 273,
+      "physical_row": 6,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 274,
+      "physical_row": 6,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 275,
+      "physical_row": 6,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 276,
+      "physical_row": 6,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 277,
+      "physical_row": 6,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 278,
+      "physical_row": 6,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 279,
+      "physical_row": 6,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 280,
+      "physical_row": 6,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 281,
+      "physical_row": 6,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 282,
+      "physical_row": 6,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 283,
+      "physical_row": 6,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 284,
+      "physical_row": 6,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "position_1based": 285,
+      "physical_row": 6,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 286,
+      "physical_row": 7,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 287,
+      "physical_row": 7,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 288,
+      "physical_row": 7,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 289,
+      "physical_row": 7,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 290,
+      "physical_row": 7,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 291,
+      "physical_row": 7,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "position_1based": 292,
+      "physical_row": 7,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 293,
+      "physical_row": 7,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "position_1based": 294,
+      "physical_row": 7,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "position_1based": 295,
+      "physical_row": 7,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 296,
+      "physical_row": 7,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 297,
+      "physical_row": 7,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 298,
+      "physical_row": 7,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 299,
+      "physical_row": 7,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 300,
+      "physical_row": 7,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 301,
+      "physical_row": 7,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "position_1based": 302,
+      "physical_row": 7,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 303,
+      "physical_row": 7,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 304,
+      "physical_row": 7,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "position_1based": 305,
+      "physical_row": 7,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 306,
+      "physical_row": 7,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "finite_alternatives",
+      "candidates": [
+        "v",
+        "w"
+      ],
+      "visual_preference": "v",
+      "reason": "Leftmost glyph crossed by vertical watermark; v is the visual preference, w retained."
+    },
+    {
+      "position_1based": 307,
+      "physical_row": 7,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 308,
+      "physical_row": 7,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 309,
+      "physical_row": 7,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "position_1based": 310,
+      "physical_row": 7,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 311,
+      "physical_row": 7,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 312,
+      "physical_row": 7,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 313,
+      "physical_row": 7,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 314,
+      "physical_row": 7,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 315,
+      "physical_row": 7,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "position_1based": 316,
+      "physical_row": 7,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "position_1based": 317,
+      "physical_row": 7,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 318,
+      "physical_row": 7,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 319,
+      "physical_row": 7,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 320,
+      "physical_row": 7,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "position_1based": 321,
+      "physical_row": 7,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "position_1based": 322,
+      "physical_row": 7,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "position_1based": 323,
+      "physical_row": 7,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "position_1based": 324,
+      "physical_row": 7,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 325,
+      "physical_row": 7,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "position_1based": 326,
+      "physical_row": 7,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "position_1based": 327,
+      "physical_row": 7,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "position_1based": 328,
+      "physical_row": 7,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "position_1based": 329,
+      "physical_row": 7,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 330,
+      "physical_row": 7,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "position_1based": 331,
+      "physical_row": 7,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 332,
+      "physical_row": 7,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "position_1based": 333,
+      "physical_row": 7,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "position_1based": 334,
+      "physical_row": 7,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "position_1based": 335,
+      "physical_row": 7,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    }
+  ],
+  "administrative_provenance": {
+    "from_task_description": "C14jún456; typed Országh6315; addressed Berlin, 14 June 1940",
+    "independently_used_as_crib": false
+  }
+}

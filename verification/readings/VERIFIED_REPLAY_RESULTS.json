@@ -1,0 +1,25 @@
+{
+  "berlin-1940": {
+    "status": "PASS",
+    "scope": "mechanical replay only",
+    "states": {
+      "initial": {
+        "positions": 456,
+        "unknowns": 3,
+        "literal_sha256": "04239c2609640de8a1d3ea104a302685e31ab3037ab37490c727c953705af443"
+      },
+      "heldout_checked": {
+        "positions": 456,
+        "unknowns": 3,
+        "literal_sha256": "72d4aa0c62e113941ee1a59d13ed802a5a0bf01aaac65076be45bd91d36756b6"
+      },
+      "source_checked": {
+        "positions": 456,
+        "unknowns": 3,
+        "literal_sha256": "bd5b8414297aef2f092ed3d8c47fdbec4920cfd64494e8b6dcfbdb49252ed13d"
+      }
+    },
+    "unobserved_cipher_letters": "cglz",
+    "equivalent_unused_completions": 24
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "basis_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "note": "One topic only. Migration adds a public subset, not a complete original evidence archive.",
+  "topics": [
+    {
+      "topic": "berlin-1940",
+      "category": "partial_reading",
+      "published_page": "https://github.com/Cipher-Atelier/berlin-1940/blob/main/berlin-1940/README.md",
+      "claim_scope": "Computational holdout and coherent continuation; incomplete alphabet.",
+      "source_links": [
+        "https://crypto.hcportal.eu/dashboard/cryptograms/128",
+        "https://api.hcportal.eu/media/337/41991655394777.jpg",
+        "https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf"
+      ],
+      "minimum_verification_scope": "Source positions/crop coordinates, training/holdout split, frozen selected key, all three ciphertext/plaintext states, source correction ledger, first and later holdout evaluation, key.csv and replay.py.",
+      "public_release_gap": "Full image was seen before split; source choices and quantities remain unresolved. Search/model rerun is distinct from saved-key replay.",
+      "verification_entry": "readings/README.md",
+      "original_published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/berlin-1940/README.md"
+    }
+  ]
+}

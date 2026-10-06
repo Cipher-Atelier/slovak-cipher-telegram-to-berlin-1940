@@ -1,0 +1,1412 @@
+{
+  "target": "HCP128",
+  "audit": "First formal heldout source reading; separate from training transcription",
+  "source_url": "https://api.hcportal.eu/media/337/41991655394777.jpg",
+  "source_local_path": "[private working path omitted]",
+  "source_sha256": "8bc18278afc43ebde291e240e2f761c18aaa856c8d31f7ef0eedda5fc36c3a30",
+  "source_dimensions_px": [
+    3024,
+    4032
+  ],
+  "scope": "Final three physical ciphertext rows, transmitted positions 336–456 inclusive.",
+  "expected_letter_positions": 121,
+  "observed_letter_positions": 121,
+  "read_position_count": 120,
+  "finite_alternative_position_count": 0,
+  "unresolved_position_count": 1,
+  "source_case": "lowercase",
+  "method": "Independent manual source-image reading using original RGB crops, direct blue-channel extractions compared to original RGB, and explicitly labeled 3x nearest-neighbor pixel replication. No OCR, generated restoration, keys, deciphered text, computational output, control material, or other transcripts were inspected. No decipherment was attempted.",
+  "independence_caveat": "During the earlier training-only task an overbroad initial locator image accidentally displayed the final three rows. They were not formally transcribed or used then. The parent was informed and authorized continuation as a computational fitting holdout, not perfect image blindness. This is the first formal reading of these rows, performed only after the parent stated that the computational key and orientation were frozen. The reader has not seen that key, orientation, or any computed plaintext.",
+  "administrative_pixel_inspection": "At the parent’s separate request, the reader inspected lower administrative-only crops to report safe crop coordinates for another reviewer. Administrative wording was not used as a cipher crib or included in this transcription.",
+  "training_preservation": "No training files were modified or consulted during this holdout task.",
+  "rows": [
+    {
+      "physical_row": 8,
+      "transmitted_start_position_1based": 336,
+      "transmitted_end_position_1based": 385,
+      "group_count": 10,
+      "group_lengths": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "letter_position_count": 50,
+      "ambiguity_preserving_grouped": "rwrrk jqrdt afuxp vtaiy diatr iyasp axwyw uypjp aqssb yxjim"
+    },
+    {
+      "physical_row": 9,
+      "transmitted_start_position_1based": 386,
+      "transmitted_end_position_1based": 435,
+      "group_count": 10,
+      "group_lengths": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "letter_position_count": 50,
+      "ambiguity_preserving_grouped": "mwanu piueu fvrie iaprh awapi nabre apynb sfdjr ei?fr oyeur"
+    },
+    {
+      "physical_row": 10,
+      "transmitted_start_position_1based": 436,
+      "transmitted_end_position_1based": 456,
+      "group_count": 5,
+      "group_lengths": [
+        5,
+        5,
+        5,
+        5,
+        1
+      ],
+      "letter_position_count": 21,
+      "ambiguity_preserving_grouped": "fprha wapeu trwsr bawym a"
+    }
+  ],
+  "positions": [
+    {
+      "transmitted_position_1based": 336,
+      "holdout_position_1based": 1,
+      "physical_row": 8,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 337,
+      "holdout_position_1based": 2,
+      "physical_row": 8,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 338,
+      "holdout_position_1based": 3,
+      "physical_row": 8,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 339,
+      "holdout_position_1based": 4,
+      "physical_row": 8,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 340,
+      "holdout_position_1based": 5,
+      "physical_row": 8,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "k"
+      ]
+    },
+    {
+      "transmitted_position_1based": 341,
+      "holdout_position_1based": 6,
+      "physical_row": 8,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "transmitted_position_1based": 342,
+      "holdout_position_1based": 7,
+      "physical_row": 8,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "transmitted_position_1based": 343,
+      "holdout_position_1based": 8,
+      "physical_row": 8,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 344,
+      "holdout_position_1based": 9,
+      "physical_row": 8,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "transmitted_position_1based": 345,
+      "holdout_position_1based": 10,
+      "physical_row": 8,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "transmitted_position_1based": 346,
+      "holdout_position_1based": 11,
+      "physical_row": 8,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 347,
+      "holdout_position_1based": 12,
+      "physical_row": 8,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "transmitted_position_1based": 348,
+      "holdout_position_1based": 13,
+      "physical_row": 8,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 349,
+      "holdout_position_1based": 14,
+      "physical_row": 8,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "transmitted_position_1based": 350,
+      "holdout_position_1based": 15,
+      "physical_row": 8,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 351,
+      "holdout_position_1based": 16,
+      "physical_row": 8,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "transmitted_position_1based": 352,
+      "holdout_position_1based": 17,
+      "physical_row": 8,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "transmitted_position_1based": 353,
+      "holdout_position_1based": 18,
+      "physical_row": 8,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 354,
+      "holdout_position_1based": 19,
+      "physical_row": 8,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 355,
+      "holdout_position_1based": 20,
+      "physical_row": 8,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 356,
+      "holdout_position_1based": 21,
+      "physical_row": 8,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "transmitted_position_1based": 357,
+      "holdout_position_1based": 22,
+      "physical_row": 8,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 358,
+      "holdout_position_1based": 23,
+      "physical_row": 8,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 359,
+      "holdout_position_1based": 24,
+      "physical_row": 8,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "transmitted_position_1based": 360,
+      "holdout_position_1based": 25,
+      "physical_row": 8,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 361,
+      "holdout_position_1based": 26,
+      "physical_row": 8,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 362,
+      "holdout_position_1based": 27,
+      "physical_row": 8,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 363,
+      "holdout_position_1based": 28,
+      "physical_row": 8,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 364,
+      "holdout_position_1based": 29,
+      "physical_row": 8,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "transmitted_position_1based": 365,
+      "holdout_position_1based": 30,
+      "physical_row": 8,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 366,
+      "holdout_position_1based": 31,
+      "physical_row": 8,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 367,
+      "holdout_position_1based": 32,
+      "physical_row": 8,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "transmitted_position_1based": 368,
+      "holdout_position_1based": 33,
+      "physical_row": 8,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 369,
+      "holdout_position_1based": 34,
+      "physical_row": 8,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 370,
+      "holdout_position_1based": 35,
+      "physical_row": 8,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 371,
+      "holdout_position_1based": 36,
+      "physical_row": 8,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 372,
+      "holdout_position_1based": 37,
+      "physical_row": 8,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 373,
+      "holdout_position_1based": 38,
+      "physical_row": 8,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 374,
+      "holdout_position_1based": 39,
+      "physical_row": 8,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "transmitted_position_1based": 375,
+      "holdout_position_1based": 40,
+      "physical_row": 8,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 376,
+      "holdout_position_1based": 41,
+      "physical_row": 8,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 377,
+      "holdout_position_1based": 42,
+      "physical_row": 8,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "q"
+      ]
+    },
+    {
+      "transmitted_position_1based": 378,
+      "holdout_position_1based": 43,
+      "physical_row": 8,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "transmitted_position_1based": 379,
+      "holdout_position_1based": 44,
+      "physical_row": 8,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "transmitted_position_1based": 380,
+      "holdout_position_1based": 45,
+      "physical_row": 8,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "transmitted_position_1based": 381,
+      "holdout_position_1based": 46,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 382,
+      "holdout_position_1based": 47,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "x"
+      ]
+    },
+    {
+      "transmitted_position_1based": 383,
+      "holdout_position_1based": 48,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "transmitted_position_1based": 384,
+      "holdout_position_1based": 49,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 385,
+      "holdout_position_1based": 50,
+      "physical_row": 8,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "transmitted_position_1based": 386,
+      "holdout_position_1based": 51,
+      "physical_row": 9,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "transmitted_position_1based": 387,
+      "holdout_position_1based": 52,
+      "physical_row": 9,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 388,
+      "holdout_position_1based": 53,
+      "physical_row": 9,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 389,
+      "holdout_position_1based": 54,
+      "physical_row": 9,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "transmitted_position_1based": 390,
+      "holdout_position_1based": 55,
+      "physical_row": 9,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 391,
+      "holdout_position_1based": 56,
+      "physical_row": 9,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 392,
+      "holdout_position_1based": 57,
+      "physical_row": 9,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 393,
+      "holdout_position_1based": 58,
+      "physical_row": 9,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 394,
+      "holdout_position_1based": 59,
+      "physical_row": 9,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 395,
+      "holdout_position_1based": 60,
+      "physical_row": 9,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 396,
+      "holdout_position_1based": 61,
+      "physical_row": 9,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "transmitted_position_1based": 397,
+      "holdout_position_1based": 62,
+      "physical_row": 9,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "v"
+      ]
+    },
+    {
+      "transmitted_position_1based": 398,
+      "holdout_position_1based": 63,
+      "physical_row": 9,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 399,
+      "holdout_position_1based": 64,
+      "physical_row": 9,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 400,
+      "holdout_position_1based": 65,
+      "physical_row": 9,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 401,
+      "holdout_position_1based": 66,
+      "physical_row": 9,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 402,
+      "holdout_position_1based": 67,
+      "physical_row": 9,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 403,
+      "holdout_position_1based": 68,
+      "physical_row": 9,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 404,
+      "holdout_position_1based": 69,
+      "physical_row": 9,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 405,
+      "holdout_position_1based": 70,
+      "physical_row": 9,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "transmitted_position_1based": 406,
+      "holdout_position_1based": 71,
+      "physical_row": 9,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 407,
+      "holdout_position_1based": 72,
+      "physical_row": 9,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 408,
+      "holdout_position_1based": 73,
+      "physical_row": 9,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 409,
+      "holdout_position_1based": 74,
+      "physical_row": 9,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 410,
+      "holdout_position_1based": 75,
+      "physical_row": 9,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 411,
+      "holdout_position_1based": 76,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "transmitted_position_1based": 412,
+      "holdout_position_1based": 77,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 413,
+      "holdout_position_1based": 78,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "transmitted_position_1based": 414,
+      "holdout_position_1based": 79,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 415,
+      "holdout_position_1based": 80,
+      "physical_row": 9,
+      "group_1based_in_row": 6,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 416,
+      "holdout_position_1based": 81,
+      "physical_row": 9,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 417,
+      "holdout_position_1based": 82,
+      "physical_row": 9,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 418,
+      "holdout_position_1based": 83,
+      "physical_row": 9,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 419,
+      "holdout_position_1based": 84,
+      "physical_row": 9,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "n"
+      ]
+    },
+    {
+      "transmitted_position_1based": 420,
+      "holdout_position_1based": 85,
+      "physical_row": 9,
+      "group_1based_in_row": 7,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "transmitted_position_1based": 421,
+      "holdout_position_1based": 86,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "transmitted_position_1based": 422,
+      "holdout_position_1based": 87,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "transmitted_position_1based": 423,
+      "holdout_position_1based": 88,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "d"
+      ]
+    },
+    {
+      "transmitted_position_1based": 424,
+      "holdout_position_1based": 89,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "j"
+      ]
+    },
+    {
+      "transmitted_position_1based": 425,
+      "holdout_position_1based": 90,
+      "physical_row": 9,
+      "group_1based_in_row": 8,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 426,
+      "holdout_position_1based": 91,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 427,
+      "holdout_position_1based": 92,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "i"
+      ]
+    },
+    {
+      "transmitted_position_1based": 428,
+      "holdout_position_1based": 93,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 3,
+      "status": "unresolved_overstrike",
+      "candidates": null,
+      "visual_preference": "a",
+      "reason": "The source has a dense overstruck/smudged character. It resembles a, but the pixels do not support a secure character or a defensibly exhaustive finite alternative set. Preserve ? for validation."
+    },
+    {
+      "transmitted_position_1based": 429,
+      "holdout_position_1based": 94,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "transmitted_position_1based": 430,
+      "holdout_position_1based": 95,
+      "physical_row": 9,
+      "group_1based_in_row": 9,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 431,
+      "holdout_position_1based": 96,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "o"
+      ]
+    },
+    {
+      "transmitted_position_1based": 432,
+      "holdout_position_1based": 97,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 433,
+      "holdout_position_1based": 98,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 434,
+      "holdout_position_1based": 99,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 435,
+      "holdout_position_1based": 100,
+      "physical_row": 9,
+      "group_1based_in_row": 10,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 436,
+      "holdout_position_1based": 101,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "f"
+      ]
+    },
+    {
+      "transmitted_position_1based": 437,
+      "holdout_position_1based": 102,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 438,
+      "holdout_position_1based": 103,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 439,
+      "holdout_position_1based": 104,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "h"
+      ]
+    },
+    {
+      "transmitted_position_1based": 440,
+      "holdout_position_1based": 105,
+      "physical_row": 10,
+      "group_1based_in_row": 1,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 441,
+      "holdout_position_1based": 106,
+      "physical_row": 10,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 442,
+      "holdout_position_1based": 107,
+      "physical_row": 10,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 443,
+      "holdout_position_1based": 108,
+      "physical_row": 10,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "p"
+      ]
+    },
+    {
+      "transmitted_position_1based": 444,
+      "holdout_position_1based": 109,
+      "physical_row": 10,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "e"
+      ]
+    },
+    {
+      "transmitted_position_1based": 445,
+      "holdout_position_1based": 110,
+      "physical_row": 10,
+      "group_1based_in_row": 2,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "u"
+      ]
+    },
+    {
+      "transmitted_position_1based": 446,
+      "holdout_position_1based": 111,
+      "physical_row": 10,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "t"
+      ]
+    },
+    {
+      "transmitted_position_1based": 447,
+      "holdout_position_1based": 112,
+      "physical_row": 10,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 448,
+      "holdout_position_1based": 113,
+      "physical_row": 10,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 449,
+      "holdout_position_1based": 114,
+      "physical_row": 10,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "s"
+      ]
+    },
+    {
+      "transmitted_position_1based": 450,
+      "holdout_position_1based": 115,
+      "physical_row": 10,
+      "group_1based_in_row": 3,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "r"
+      ]
+    },
+    {
+      "transmitted_position_1based": 451,
+      "holdout_position_1based": 116,
+      "physical_row": 10,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "b"
+      ]
+    },
+    {
+      "transmitted_position_1based": 452,
+      "holdout_position_1based": 117,
+      "physical_row": 10,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 2,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    },
+    {
+      "transmitted_position_1based": 453,
+      "holdout_position_1based": 118,
+      "physical_row": 10,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 3,
+      "status": "read",
+      "candidates": [
+        "w"
+      ]
+    },
+    {
+      "transmitted_position_1based": 454,
+      "holdout_position_1based": 119,
+      "physical_row": 10,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 4,
+      "status": "read",
+      "candidates": [
+        "y"
+      ]
+    },
+    {
+      "transmitted_position_1based": 455,
+      "holdout_position_1based": 120,
+      "physical_row": 10,
+      "group_1based_in_row": 4,
+      "glyph_1based_in_group": 5,
+      "status": "read",
+      "candidates": [
+        "m"
+      ]
+    },
+    {
+      "transmitted_position_1based": 456,
+      "holdout_position_1based": 121,
+      "physical_row": 10,
+      "group_1based_in_row": 5,
+      "glyph_1based_in_group": 1,
+      "status": "read",
+      "candidates": [
+        "a"
+      ]
+    }
+  ]
+}

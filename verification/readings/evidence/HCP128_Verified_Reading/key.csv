@@ -1,0 +1,27 @@
+cipher,plaintext,training_occurrences,status
+a,o,34,frozen candidate mapping
+b,m,16,frozen candidate mapping
+c,,0,unobserved; no supported mapping
+d,k,8,frozen candidate mapping
+e,s,21,frozen candidate mapping
+f,c,10,frozen candidate mapping
+g,,0,unobserved; no supported mapping
+h,g,5,frozen candidate mapping
+i,t,21,frozen candidate mapping
+j,y,14,frozen candidate mapping
+k,b,10,frozen candidate mapping
+l,,0,unobserved; no supported mapping
+m,h,4,frozen candidate mapping
+n,j,4,frozen candidate mapping
+o,d,19,frozen candidate mapping
+p,v,12,frozen candidate mapping
+q,z,7,frozen candidate mapping
+r,a,38,frozen candidate mapping
+s,u,5,frozen candidate mapping
+t,r,15,frozen candidate mapping
+u,i,23,frozen candidate mapping
+v,p,10,frozen candidate mapping
+w,n,18,frozen candidate mapping
+x,l,11,frozen candidate mapping
+y,e,28,frozen candidate mapping
+z,,0,unobserved; no supported mapping

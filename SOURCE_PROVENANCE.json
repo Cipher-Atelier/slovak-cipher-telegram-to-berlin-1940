@@ -1,0 +1,161 @@
+{
+  "source_repository": "https://github.com/cayde-6/historical-cipher-research",
+  "source_baseline_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "approved_source_archive_sha256": "82369eb38788028640501edfe272cd91d8ce6158977465f78333ab195d7ce59b",
+  "publication_date_utc": "2026-10-06",
+  "history": "Clean publication commit; original Git history retained without rewriting or force-push.",
+  "retained_inputs": [
+    {
+      "source_path": "berlin-1940/README.md",
+      "destination_path": "berlin-1940/README.md",
+      "source_sha256": "b6076ec2dba5d972432edace4b0f3bbbbd2cfbae04029d867bdbc8975125d8ce",
+      "destination_sha256": "b6076ec2dba5d972432edace4b0f3bbbbd2cfbae04029d867bdbc8975125d8ce",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/holdout_transcription.json",
+      "destination_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/holdout_transcription.json",
+      "source_sha256": "142976f3ca5fb89c8f678b982ea59daae809cea39273f3f993d041c65272c10e",
+      "destination_sha256": "142976f3ca5fb89c8f678b982ea59daae809cea39273f3f993d041c65272c10e",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/source_check_addendum_20261004/addendum.json",
+      "destination_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/source_check_addendum_20261004/addendum.json",
+      "source_sha256": "ae744a270f5f60cc1ae756b1038497bf950c15de1ed79753d8ebd6595728d2fb",
+      "destination_sha256": "ae744a270f5f60cc1ae756b1038497bf950c15de1ed79753d8ebd6595728d2fb",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_training_audit/training_transcription.json",
+      "destination_path": "verification/readings/evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_training_audit/training_transcription.json",
+      "source_sha256": "d1b40b81804f951f4b57b0f8bcc0627aea1e357097fbe18bd75eee1273bbd95e",
+      "destination_sha256": "d1b40b81804f951f4b57b0f8bcc0627aea1e357097fbe18bd75eee1273bbd95e",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_heldout_checked.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_heldout_checked.txt",
+      "source_sha256": "dd8c4ea1daf2dc4e0f0e8a0ffc0d78f61b376518fca4f51eb6a4121de34b146d",
+      "destination_sha256": "dd8c4ea1daf2dc4e0f0e8a0ffc0d78f61b376518fca4f51eb6a4121de34b146d",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_initial.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_initial.txt",
+      "source_sha256": "84761cb0bc06905bd3c1f03688d97a90bbd8eaa8d7d68a21c5460496380f1441",
+      "destination_sha256": "84761cb0bc06905bd3c1f03688d97a90bbd8eaa8d7d68a21c5460496380f1441",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_source_checked.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/ciphertext_source_checked.txt",
+      "source_sha256": "9aa41bec63bf39ecc6211736060fd99620dbbc916140b295f0ae57c317b6ce59",
+      "destination_sha256": "9aa41bec63bf39ecc6211736060fd99620dbbc916140b295f0ae57c317b6ce59",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/key.csv",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/key.csv",
+      "source_sha256": "f29c6a2e5fcd92d5336a28a941907dbf2ac5956969f73cfdca2b5c2b90763801",
+      "destination_sha256": "f29c6a2e5fcd92d5336a28a941907dbf2ac5956969f73cfdca2b5c2b90763801",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_heldout_checked.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_heldout_checked.txt",
+      "source_sha256": "cc0eb20cf6b2d2fe5b0ee6cd384b2ba7b93c4d99da67074498333b8e4627af7d",
+      "destination_sha256": "cc0eb20cf6b2d2fe5b0ee6cd384b2ba7b93c4d99da67074498333b8e4627af7d",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_initial.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_initial.txt",
+      "source_sha256": "f0af937b1e62c1c84442dc21b293bde178d69d49cd2f9fc85263b900235c5f1c",
+      "destination_sha256": "f0af937b1e62c1c84442dc21b293bde178d69d49cd2f9fc85263b900235c5f1c",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_source_checked.txt",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/plaintext_source_checked.txt",
+      "source_sha256": "787a187cfcc98fbf3a8801272e99a82eb4cd9daa7977f51ee026545a50235a8a",
+      "destination_sha256": "787a187cfcc98fbf3a8801272e99a82eb4cd9daa7977f51ee026545a50235a8a",
+      "transform": "verbatim retained source"
+    },
+    {
+      "source_path": "verification/readings/evidence/HCP128_Verified_Reading/source_uncertainties.csv",
+      "destination_path": "verification/readings/evidence/HCP128_Verified_Reading/source_uncertainties.csv",
+      "source_sha256": "31450c3dd52e077f5f50e810d683a223a37b6d1fc4812de2946f1e755d7822b1",
+      "destination_sha256": "31450c3dd52e077f5f50e810d683a223a37b6d1fc4812de2946f1e755d7822b1",
+      "transform": "verbatim retained source"
+    }
+  ],
+  "adapted_files": [
+    {
+      "path": ".gitignore",
+      "sha256": "60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "7f93c36e5f05c7891266c8e90e57db2911315921d491b5fd2ee58c2cadb0477b",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "README.md",
+      "sha256": "c6fb2c563dbdafdd843232ddf43d742418f6591cf9781ef48c6a9cde49bfef9a",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "sha256": "0a8f5dbd7785931ddc38571839598e33da37308881d6ed8aaebaa5c382554d7a",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "sha256": "42125309741d4e23a8ace7822c360fa801d0834eaa950c460c215a8afe4d4aa3",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/README.md",
+      "sha256": "782a2987c376e65ee841583a1d9a265fcc8c64333e9914f1c98c4c47d582a76b",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/TOPIC_SCOPE_INDEX.json",
+      "sha256": "20f16714ad6b70d4814131ca675aabcdacd5dd903c34a9c4b9d04b1016b44bea",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/check_all.py",
+      "sha256": "0b9802d5145d4f8bbaaec2dc73432671a8d442373b8dba896d144c4764443556",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/PUBLIC_FILE_MANIFEST.json",
+      "sha256": "bbf94f49cebe446c62a49e9e06116511d2947e712d4aedb9e46480a1d491945c",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/README.md",
+      "sha256": "5f6b087200c74259b7f426a136297806d9c30e75fe3a2f7b1026002eb48d81a2",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/SOURCES_AND_LIMITS.json",
+      "sha256": "5f0352b2ba194ed04d51ecb1989ef6366e43eaab40e3b42e254eba7406706916",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/VERIFIED_REPLAY_RESULTS.json",
+      "sha256": "693bbc6f9af4ea0a67c057027823d44fc4c0993ba491a3b47538a4abdfa9032c",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    },
+    {
+      "path": "verification/readings/replay.py",
+      "sha256": "efe21bf52e5bda2e6c32f4445469311927f1b9a005294a3e3c7d5621e3605064",
+      "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
+    }
+  ],
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+}

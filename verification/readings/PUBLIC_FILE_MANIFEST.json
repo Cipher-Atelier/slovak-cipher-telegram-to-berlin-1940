@@ -1,0 +1,148 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/HCP128_Verified_Reading/key.csv",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "f29c6a2e5fcd92d5336a28a941907dbf2ac5956969f73cfdca2b5c2b90763801",
+      "source_sha256": "f29c6a2e5fcd92d5336a28a941907dbf2ac5956969f73cfdca2b5c2b90763801",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/ciphertext_initial.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "84761cb0bc06905bd3c1f03688d97a90bbd8eaa8d7d68a21c5460496380f1441",
+      "source_sha256": "84761cb0bc06905bd3c1f03688d97a90bbd8eaa8d7d68a21c5460496380f1441",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/ciphertext_heldout_checked.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "dd8c4ea1daf2dc4e0f0e8a0ffc0d78f61b376518fca4f51eb6a4121de34b146d",
+      "source_sha256": "dd8c4ea1daf2dc4e0f0e8a0ffc0d78f61b376518fca4f51eb6a4121de34b146d",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/ciphertext_source_checked.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "9aa41bec63bf39ecc6211736060fd99620dbbc916140b295f0ae57c317b6ce59",
+      "source_sha256": "9aa41bec63bf39ecc6211736060fd99620dbbc916140b295f0ae57c317b6ce59",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/plaintext_initial.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "f0af937b1e62c1c84442dc21b293bde178d69d49cd2f9fc85263b900235c5f1c",
+      "source_sha256": "f0af937b1e62c1c84442dc21b293bde178d69d49cd2f9fc85263b900235c5f1c",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/plaintext_heldout_checked.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "cc0eb20cf6b2d2fe5b0ee6cd384b2ba7b93c4d99da67074498333b8e4627af7d",
+      "source_sha256": "cc0eb20cf6b2d2fe5b0ee6cd384b2ba7b93c4d99da67074498333b8e4627af7d",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/plaintext_source_checked.txt",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "787a187cfcc98fbf3a8801272e99a82eb4cd9daa7977f51ee026545a50235a8a",
+      "source_sha256": "787a187cfcc98fbf3a8801272e99a82eb4cd9daa7977f51ee026545a50235a8a",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP128_Verified_Reading/source_uncertainties.csv",
+      "topic": "berlin-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "31450c3dd52e077f5f50e810d683a223a37b6d1fc4812de2946f1e755d7822b1",
+      "source_sha256": "31450c3dd52e077f5f50e810d683a223a37b6d1fc4812de2946f1e755d7822b1",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_training_audit/training_transcription.json",
+      "topic": "berlin-1940",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "d1b40b81804f951f4b57b0f8bcc0627aea1e357097fbe18bd75eee1273bbd95e",
+      "source_sha256": "d721cba008c1abd3ff340e1fff251438b8ba96e8f89bd78cda9b70cd1c426d7c",
+      "transform": "private local path strings replaced; scientific records retained",
+      "omitted_path_fields": [
+        "$.source_local_path"
+      ],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/holdout_transcription.json",
+      "topic": "berlin-1940",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "142976f3ca5fb89c8f678b982ea59daae809cea39273f3f993d041c65272c10e",
+      "source_sha256": "4a0d472861608956ade6818e5fe895feaecb42818f70da59f2163306d7464b3c",
+      "transform": "private local path strings replaced; scientific records retained",
+      "omitted_path_fields": [
+        "$.source_local_path"
+      ],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Berlin1940_C456_Checkpoint/mzv_c_berlin128/source_holdout_audit/source_check_addendum_20261004/addendum.json",
+      "topic": "berlin-1940",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "ae744a270f5f60cc1ae756b1038497bf950c15de1ed79753d8ebd6595728d2fb",
+      "source_sha256": "47f55b58d93bbda94dae5f9d02811866a3c9720913ec1879bb9768065fffc6c6",
+      "transform": "private local path strings replaced; scientific records retained",
+      "omitted_path_fields": [
+        "$.source_local_path"
+      ],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}
