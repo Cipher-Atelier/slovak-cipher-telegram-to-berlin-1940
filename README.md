@@ -2,7 +2,7 @@
 
 Coherent fixed-key partial continuation. Incomplete alphabet, prior full-image exposure, masks and three distinct saved states remain explicit.
 
-Read the [research account](berlin-1940/README.md), [topic navigation](berlin-1940/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+Read the [research account](berlin-1940/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
 
 Run the bounded offline checks with Python 3.10 or later from this repository root:
 
