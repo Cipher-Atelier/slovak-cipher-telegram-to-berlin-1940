@@ -14,6 +14,10 @@ sdejpolyakoviabypoziadalbergemana
 
 This is the beginning of the saved output, with word spacing and accents omitted. The research account explains the proposed message in ordinary prose.
 
+## Research update — 9 October 2026
+
+Read the [new check and its limits](research-updates/2026-10-09-residual-audit.md). This update is documentation; new experiment scripts are not included.
+
 ## Start reading
 
 1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
