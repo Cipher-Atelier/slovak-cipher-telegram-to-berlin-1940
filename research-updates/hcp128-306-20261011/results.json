@@ -1,0 +1,141 @@
+{
+  "source_sha256": "8bc18278afc43ebde291e240e2f761c18aaa856c8d31f7ef0eedda5fc36c3a30",
+  "protocol_sha256": "90ddf9e367f41e76bc7652abf1f412ba1bd4650731012dd9e7ed4ce57b0ba5f3",
+  "calibration": {
+    "total": 13,
+    "called": 13,
+    "abstained": 0,
+    "wrong_committed": 0,
+    "coverage": 1.0,
+    "coverage_by_class": {
+      "v": 1.0,
+      "w": 1.0
+    },
+    "agreement_among_committed": 1.0,
+    "confusion_against_prior_source_labels": {
+      "v": {
+        "v": 4,
+        "w": 0,
+        "?": 0
+      },
+      "w": {
+        "v": 0,
+        "w": 9,
+        "?": 0
+      }
+    }
+  },
+  "calibration_gate_passed": true,
+  "validation": {
+    "total": 10,
+    "called": 8,
+    "abstained": 2,
+    "wrong_committed": 0,
+    "coverage": 0.8,
+    "coverage_by_class": {
+      "v": 0.75,
+      "w": 0.8333333333333334
+    },
+    "agreement_among_committed": 1.0,
+    "confusion_against_prior_source_labels": {
+      "v": {
+        "v": 3,
+        "w": 0,
+        "?": 1
+      },
+      "w": {
+        "v": 0,
+        "w": 5,
+        "?": 1
+      }
+    }
+  },
+  "operator_validation_gate_passed": true,
+  "independent_calibration": {
+    "total": 13,
+    "called": 11,
+    "abstained": 2,
+    "wrong_committed": 0,
+    "coverage": 0.8461538461538461,
+    "coverage_by_class": {
+      "v": 1.0,
+      "w": 0.7777777777777778
+    },
+    "agreement_among_committed": 1.0,
+    "confusion_against_prior_source_labels": {
+      "v": {
+        "v": 4,
+        "w": 0,
+        "?": 0
+      },
+      "w": {
+        "v": 0,
+        "w": 7,
+        "?": 2
+      }
+    }
+  },
+  "independent_validation": {
+    "total": 10,
+    "called": 7,
+    "abstained": 3,
+    "wrong_committed": 0,
+    "coverage": 0.7,
+    "coverage_by_class": {
+      "v": 0.75,
+      "w": 0.6666666666666666
+    },
+    "agreement_among_committed": 1.0,
+    "confusion_against_prior_source_labels": {
+      "v": {
+        "v": 3,
+        "w": 0,
+        "?": 1
+      },
+      "w": {
+        "v": 0,
+        "w": 4,
+        "?": 2
+      }
+    }
+  },
+  "independent_validation_gate_passed": false,
+  "experiment_acceptance_gate_passed": false,
+  "acceptance_failure_reasons": [
+    "Independent validation coverage fails",
+    "Control full-group locator requirement not fully implemented",
+    "Target discriminating stroke not securely visible"
+  ],
+  "target_position": 306,
+  "target_decision": "?",
+  "target_candidates": [
+    "v",
+    "w"
+  ],
+  "new_reading_proposed": false,
+  "stress": {
+    "total": 10,
+    "called": 0,
+    "abstained": 10,
+    "wrong_committed": 0,
+    "coverage": 0.0,
+    "coverage_by_class": {
+      "v": 0.0,
+      "w": 0.0
+    },
+    "agreement_among_committed": null,
+    "confusion_against_prior_source_labels": {
+      "v": {
+        "v": 0,
+        "w": 0,
+        "?": 4
+      },
+      "w": {
+        "v": 0,
+        "w": 0,
+        "?": 6
+      }
+    }
+  },
+  "scope": "Arithmetic of saved manual source-shape judgments; no OCR, key replay or historical accuracy claim."
+}

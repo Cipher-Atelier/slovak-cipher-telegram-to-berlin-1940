@@ -1,0 +1,16 @@
+{
+  "position":306,
+  "physical_row":7,
+  "group":5,
+  "glyph":1,
+  "bbox":[1434,1325,1492,1435],
+  "group_locator_bbox":[1405,1325,1700,1435],
+  "decision":"?",
+  "retained_candidates":["v","w"],
+  "visible":false,
+  "basins":null,
+  "note":"Two dark lower lobes are apparent, but the blue vertical band and its edge lines pass through the central body needed to trace and count valleys/crest. Direct B retains the overlay and does not establish uncontaminated topology. Frozen visibility rule requires abstention; no preferred new reading is promoted.",
+  "watermark_colour_core":{"x_interval":[1456,1472],"width_px":16,"measurement":"Mean B-R > 25 in y=1340:1370 over search x=1440:1490; this measures the blue core only, not all edge lines or its complete interference extent."},
+  "key_or_plaintext_used":false,
+  "new_transcription_proposed":false
+}

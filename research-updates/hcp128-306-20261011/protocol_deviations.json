@@ -1,0 +1,9 @@
+{
+  "criteria_tuned_after_results": false,
+  "split_changed": false,
+  "controls_full_group_locators_frozen": false,
+  "description": "Initial calibration full-row locator views plus approximate pitch-based crop placement were used; per-control independent full-group locations were not all frozen. Reviewer found C140, C183, V07 truncated required outer strokes. Frozen crops were retained; no posthoc acceptance retest.",
+  "blinding": "Metadata sample labels previously exposed; opaque panels not strong blinding. Independent reviewer also read label-bearing crop metadata and viewed whole-image source before close-up phases.",
+  "measurement_limit": "Operator crest heights rounded from a representative visual ratio near 0.75, not independent traced landmarks; reviewer gives intervals.",
+  "consequence": "Do not claim independently passed validation or any new target source reading."
+}
