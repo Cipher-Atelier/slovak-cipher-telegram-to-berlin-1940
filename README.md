@@ -2,17 +2,22 @@
 
 A Slovak diplomatic telegram sent to Berlin on 14 June 1940, catalogued as HCP128. Its cipher replaces ordinary letters with other letters.
 
-## What has been found?
+## Current result — 11 October 2026
 
-The saved candidate key gives a coherent partial Slovak reading about cement deliveries and fertilizer exports. Some source signs and a quantity remain unclear, and four unused cipher letters have no established values.
+The saved candidate key gives a coherent partial Slovak reading about cement and fertilizer negotiations. All three saved states have 456 positions and three unresolved positions. Unobserved encrypted letters `c`, `g`, `l`, `z` leave 24 equivalent unused-alphabet completions; the complete historical alphabet is not identified.
 
-A small example from the recorded result:
+| Evidence layer | Open this |
+| --- | --- |
+| Original | [HCP128 catalogue](https://crypto.hcportal.eu/dashboard/cryptograms/128) · [source image](https://api.hcportal.eu/media/337/41991655394777.jpg) |
+| Recorded signs / candidate key | [Source-checked ciphertext](verification/readings/evidence/HCP128_Verified_Reading/ciphertext_source_checked.txt) · [key](verification/readings/evidence/HCP128_Verified_Reading/key.csv) |
+| Literal | [Matching source-checked output](verification/readings/evidence/HCP128_Verified_Reading/plaintext_source_checked.txt) · [uncertainty ledger](verification/readings/evidence/HCP128_Verified_Reading/source_uncertainties.csv) |
+| Interpretation | [Proposed message](berlin-1940/README.md#result) |
 
-```text
-sdejpolyakoviabypoziadalbergemana
-```
+Positions 1–3 `e,o,y → s,d,e` give `sde`. [Check one example](READING_GUIDE.md#check-one-example-by-hand) with matching ciphertext/plaintext states; an initial ciphertext must not be paired with later output.
 
-This is the beginning of the saved output, with word spacing and accents omitted. The research account explains the proposed message in ordinary prose.
+The [11 October source-shape experiment](research-updates/hcp128-306-20261011/README.md) did not resolve position 306: its independent validation gate failed, and the target remains `?`, with encrypted-source alternatives `v/w`. This negative result adds no deciphered letter. The separate [provenance follow-up](research-updates/hcp128-source-provenance-20261011.md) confirms a fonds reference, not an inventory entry or folio.
+
+**Unresolved / missing:** positions 158, 306, 428, malformed wording, sulfate quantity and unused alphabet values remain. A better authorized cipher-page image, independent same-key text or historical cleartext is needed. No complete polished translation is included. The full image had been seen before the computational holdout split.
 
 ## Research update — 9 October 2026
 
