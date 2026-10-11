@@ -1,0 +1,16 @@
+{
+  "phase": "validation decisions before label reveal",
+  "blinding_limit": "Opaque shuffled IDs concealed source labels on displayed panels. Operator previously saw metadata sample list; this is procedural label concealment, not strong reader blinding.",
+  "samples": [
+    {"id":"V01","basins":2,"body_height_px_approx":36,"crest_rise_px_approx":27,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"w","note":"Two traceable body valleys and central crest"},
+    {"id":"V02","basins":1,"body_height_px_approx":35,"crest_rise_px_approx":null,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"v","note":"One valley, interior unobscured"},
+    {"id":"V03","basins":1,"body_height_px_approx":33,"crest_rise_px_approx":null,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"v","note":"Vertical band adjacent to right neighbor; body interior clear"},
+    {"id":"V04","basins":2,"body_height_px_approx":34,"crest_rise_px_approx":25,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"w","note":"Horizontal band above body, both valleys and crest traceable"},
+    {"id":"V05","basins":2,"body_height_px_approx":37,"crest_rise_px_approx":28,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"w","note":"Two traceable body valleys and central crest"},
+    {"id":"V06","basins":1,"body_height_px_approx":33,"crest_rise_px_approx":null,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"v","note":"One valley, interior unobscured"},
+    {"id":"V07","basins":2,"body_height_px_approx":33,"crest_rise_px_approx":24,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"w","note":"Band below body; two valleys and crest traceable"},
+    {"id":"V08","basins":null,"body_height_px_approx":null,"crest_rise_px_approx":null,"visible":false,"rgb_b_agree":true,"branch_at_least_2px":null,"decision":"?","note":"Diagonal band crosses left valley; conservative visibility abstention"},
+    {"id":"V09","basins":null,"body_height_px_approx":null,"crest_rise_px_approx":null,"visible":false,"rgb_b_agree":true,"branch_at_least_2px":null,"decision":"?","note":"Vertical watermark through body interior; cannot exclude second valley"},
+    {"id":"V10","basins":2,"body_height_px_approx":36,"crest_rise_px_approx":27,"visible":true,"rgb_b_agree":true,"branch_at_least_2px":true,"decision":"w","note":"Two traceable body valleys and central crest"}
+  ]
+}

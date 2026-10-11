@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-11",
+  "review_type": "Independent AI source-only procedural review; not independent human expert review.",
+  "serialization_only": true,
+  "decision_or_criterion_changes": false,
+  "source": {
+    "path": "/tmp/hcp128-306-original.jpg",
+    "sha256": "8bc18278afc43ebde291e240e2f761c18aaa856c8d31f7ef0eedda5fc36c3a30",
+    "dimensions_px": [
+      3024,
+      4032
+    ],
+    "decoded_mode": "RGB",
+    "hash_and_dimensions_verified": true
+  },
+  "field_semantics": {
+    "null": "Not established or not applicable, as explained in the accompanying field; never a negative measurement.",
+    "basins": "Committed body-basin count; null for every abstention.",
+    "rgb_b_agree": "True means the committed topology was traceable in both native RGB and direct B; null for abstentions because agreement on required complete topology was not established.",
+    "branch_at_least_2px": "True is the approximate native-pixel visibility judgment already reported for committed calls; null where complete required topology was not established.",
+    "approx_body_height_px_range": "Manual approximate original-pixel interval from the completed review.",
+    "approx_crest_height_px_range": "Outward-rounded envelope implied by the already reported body-height and crest/body ranges; no new measurement or test.",
+    "approx_crest_body_ratio_range": "Manual approximate interval from the completed review, applicable only to committed w calls."
+  },
+  "exposure_and_protocol_limits": [
+    "Validation metadata exposed source labels; this review is not label-blind.",
+    "Whole-image RGB/B views provided coarse exposure to all rows before sequential close inspection.",
+    "Control metadata does not provide full-group locator boundaries; their required recording and split completeness cannot be independently verified from permitted inputs.",
+    "Frozen crops C140, C183 and V07 truncate required or potentially required outer stroke regions; no corrected-crop substitution or retest was performed.",
+    "Typewritten serif/body endpoints, baseline band, crest centerline, harmless terminal clipping and watermark traceability need more precise prospective operationalization.",
+    "Supplied source labels are transcription labels, not independently proven historical ground truth."
+  ],
+  "calibration": [
+    {
+      "id": "C5",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Continuous body and open interior; no second basin.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        35,
+        42
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "C17",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Continuous body and open interior.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        33,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "C32",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and internal crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        33,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C44",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        30,
+        38
+      ],
+      "approx_crest_body_ratio_range": [
+        0.7,
+        1.0
+      ],
+      "approx_crest_height_px_range": [
+        21,
+        38
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C50",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.7,
+        1.0
+      ],
+      "approx_crest_height_px_range": [
+        22,
+        40
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C68",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Body and sufficient interior traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "C78",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.7,
+        1.0
+      ],
+      "approx_crest_height_px_range": [
+        22,
+        40
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C82",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Neighboring descender excluded; v body clear.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "C140",
+      "source_label": "w",
+      "decision": "?",
+      "basins": null,
+      "apparent_basins_note": "Two apparent; complete frozen-crop topology not established.",
+      "visibility": "Frozen right edge cuts the outer right terminal/body boundary; conservative abstention.",
+      "rgb_b_agree": null,
+      "branch_at_least_2px": null,
+      "approx_body_height_px_range": [
+        30,
+        38
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "No admissible qualifying crest measurement because the required topology is not secure."
+    },
+    {
+      "id": "C145",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both body basins traceable; right top serif is near the crop edge.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.7,
+        1.0
+      ],
+      "approx_crest_height_px_range": [
+        22,
+        40
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C176",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both body basins traceable; left top serif is at the crop edge.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "C183",
+      "source_label": "w",
+      "decision": "?",
+      "basins": null,
+      "apparent_basins_note": "Incomplete in frozen crop.",
+      "visibility": "Frozen left edge cuts into the first descending branch; neighboring i included.",
+      "rgb_b_agree": null,
+      "branch_at_least_2px": null,
+      "approx_body_height_px_range": [
+        30,
+        38
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "No admissible qualifying crest measurement because the required topology is not secure."
+    },
+    {
+      "id": "C249",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.7,
+        1.0
+      ],
+      "approx_crest_height_px_range": [
+        22,
+        40
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    }
+  ],
+  "validation": [
+    {
+      "id": "V01",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and internal crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "V02",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Continuous body and sufficient open interior.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "V03",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Required body/interior clear; vertical watermark is to the right.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        30,
+        38
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "V04",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Required body clear; watermark lies above/right of it.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "V05",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    },
+    {
+      "id": "V06",
+      "source_label": "v",
+      "decision": "v",
+      "basins": 1,
+      "apparent_basins_note": null,
+      "visibility": "Continuous body and sufficient interior.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "Not applicable to a one-basin v."
+    },
+    {
+      "id": "V07",
+      "source_label": "w",
+      "decision": "?",
+      "basins": null,
+      "apparent_basins_note": "Two apparent; complete frozen-crop topology not established.",
+      "visibility": "Frozen left edge clips the outer upper descending body/terminal region.",
+      "rgb_b_agree": null,
+      "branch_at_least_2px": null,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "No admissible qualifying crest measurement because the required topology is not secure."
+    },
+    {
+      "id": "V08",
+      "source_label": "w",
+      "decision": "?",
+      "basins": null,
+      "apparent_basins_note": "Two apparent.",
+      "visibility": "Diagonal watermark reaches the lower first basin; complete source-ink tracing is not secure.",
+      "rgb_b_agree": null,
+      "branch_at_least_2px": null,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "No admissible qualifying crest measurement because the required topology is not secure."
+    },
+    {
+      "id": "V09",
+      "source_label": "v",
+      "decision": "?",
+      "basins": null,
+      "apparent_basins_note": "One apparent; second basin not securely excluded.",
+      "visibility": "Vertical watermark overlaps body/interior; unobscured exclusion of a second basin is not secure.",
+      "rgb_b_agree": null,
+      "branch_at_least_2px": null,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": null,
+      "approx_crest_height_px_range": null,
+      "crest_height_range_basis": "No admissible qualifying crest measurement because the required topology is not secure."
+    },
+    {
+      "id": "V10",
+      "source_label": "w",
+      "decision": "w",
+      "basins": 2,
+      "apparent_basins_note": null,
+      "visibility": "Both minima and crest traceable.",
+      "rgb_b_agree": true,
+      "branch_at_least_2px": true,
+      "approx_body_height_px_range": [
+        32,
+        40
+      ],
+      "approx_crest_body_ratio_range": [
+        0.6,
+        0.9
+      ],
+      "approx_crest_height_px_range": [
+        19,
+        36
+      ],
+      "crest_height_range_basis": "Conservative implied envelope from the body-height and crest/body ranges in the completed review; not an additional pixel measurement."
+    }
+  ],
+  "target": {
+    "id": "target_306",
+    "position": 306,
+    "decision": "?",
+    "basins": null,
+    "visibility": "Vertical watermark overlaps central/right body and the discriminating region; neither qualifying two-basin topology nor unobscured exclusion of a second basin is secure.",
+    "rgb_b_agree": null,
+    "branch_at_least_2px": null,
+    "approx_body_height_px_range": [
+      30,
+      40
+    ],
+    "approx_crest_height_px_range": null,
+    "approx_crest_body_ratio_range": null,
+    "approx_watermark_band_width_px_range": [
+      15,
+      20
+    ],
+    "watermark_width_excludes": "Thin border transitions",
+    "bbox": [
+      1434,
+      1325,
+      1492,
+      1435
+    ],
+    "group_locator_bbox": [
+      1405,
+      1325,
+      1700,
+      1435
+    ],
+    "preserve": "v/w"
+  },
+  "summary": {
+    "gate": false,
+    "target": "?",
+    "preserve": "v/w",
+    "calibration_gate": true,
+    "calibration_counts": {
+      "label_v": 4,
+      "label_w": 9,
+      "committed_v": 4,
+      "committed_w": 7,
+      "abstentions": 2,
+      "wrong_committed_calls_against_source_labels": 0
+    },
+    "validation_gate": false,
+    "validation_counts": {
+      "label_v": 4,
+      "label_w": 6,
+      "committed_v": 3,
+      "committed_w": 4,
+      "abstentions": 3,
+      "wrong_committed_calls_against_source_labels": 0
+    },
+    "validation_confusion": {
+      "source_v": {
+        "called_v": 3,
+        "called_w": 0,
+        "abstained": 1
+      },
+      "source_w": {
+        "called_v": 0,
+        "called_w": 4,
+        "abstained": 2
+      }
+    },
+    "validation_coverage": {
+      "overall": {
+        "numerator": 7,
+        "denominator": 10,
+        "percent": 70
+      },
+      "v": {
+        "numerator": 3,
+        "denominator": 4,
+        "percent": 75
+      },
+      "w": {
+        "numerator": 4,
+        "denominator": 6,
+        "percent_approx": 66.7
+      }
+    },
+    "failed_requirements": [
+      "Overall validation coverage 70% < 80%.",
+      "w validation coverage approximately 66.7% < 75%.",
+      "Target required-stroke visibility independently insufficient."
+    ]
+  }
+}

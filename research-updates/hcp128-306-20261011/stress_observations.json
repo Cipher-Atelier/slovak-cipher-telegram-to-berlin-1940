@@ -1,0 +1,115 @@
+{
+  "phase": "post-target synthetic information-loss stress test; labels already known",
+  "samples": [
+    {
+      "id": "V01",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V02",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V03",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V04",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V05",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V06",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V07",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V08",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V09",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    },
+    {
+      "id": "V10",
+      "decision": "?",
+      "basins": null,
+      "visible": false,
+      "rgb_b_agree": true,
+      "branch_at_least_2px": null,
+      "body_height_px_approx": null,
+      "crest_rise_px_approx": null,
+      "note": "Opaque synthetic band removes central body needed to exclude or trace a second basin; abstain"
+    }
+  ]
+}

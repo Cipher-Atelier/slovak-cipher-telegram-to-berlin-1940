@@ -1,0 +1,500 @@
+{
+  "calibration": [
+    {
+      "id": "C5",
+      "bbox": [
+        1207,
+        700,
+        1265,
+        800
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "1492f9600376858a6147d88b0ca61f3e9f3b6dfa17af751e423e5ec79cee87b0"
+    },
+    {
+      "id": "C17",
+      "bbox": [
+        1856,
+        700,
+        1914,
+        800
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "9349970bb5b8f1ca5c8db48c3097b9b38ec4a3aa41cf534c5a94fb4bcaf6cddb"
+    },
+    {
+      "id": "C32",
+      "bbox": [
+        2636,
+        700,
+        2694,
+        800
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "bf6c624557e46690de8193b91591c1517e656e95edf3d95168c239b5c425d1d9"
+    },
+    {
+      "id": "C44",
+      "bbox": [
+        780,
+        810,
+        838,
+        910
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "c29839ad75dbdaf1650ef48da1436bb418635d799680a728b08e4004d5c99a6a"
+    },
+    {
+      "id": "C50",
+      "bbox": [
+        1082,
+        810,
+        1140,
+        910
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "cc43d273efb583e8f2d6091f59f8050a099c3070c84312209b22f748f8aee867"
+    },
+    {
+      "id": "C68",
+      "bbox": [
+        2038,
+        810,
+        2096,
+        910
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "185d139c18dd858b528b12d9008afa2c33deffc6f23402bb431a0aeb2d49d0ba"
+    },
+    {
+      "id": "C78",
+      "bbox": [
+        2558,
+        810,
+        2616,
+        910
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "af28b754a88fb03b1202ea957c49efcee4fcc83e6649466a9705fdcf90de4afa"
+    },
+    {
+      "id": "C82",
+      "bbox": [
+        2776,
+        810,
+        2834,
+        910
+      ],
+      "dimensions": [
+        58,
+        100
+      ],
+      "original_crop_raw_rgb_sha256": "c57363da973ad8022114bc5b16d3e2a16be2008adab4af60997c58f841ba68aa"
+    },
+    {
+      "id": "C140",
+      "bbox": [
+        562,
+        1020,
+        620,
+        1125
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "8ee2002a7b235b0d0835f754974fac36acc5430727ffee7b0ebbbe2eff5d3851"
+    },
+    {
+      "id": "C145",
+      "bbox": [
+        822,
+        1020,
+        880,
+        1125
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "26c173d845e35d455f8459d85f0f3e432e6f58628b596aefd7ebdbf94c96939e"
+    },
+    {
+      "id": "C176",
+      "bbox": [
+        2474,
+        1020,
+        2532,
+        1125
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "e0c4be941481695242a4d28fdfe65a51eac7a503b5e018800f7a6e64c35f1010"
+    },
+    {
+      "id": "C183",
+      "bbox": [
+        2818,
+        1020,
+        2876,
+        1125
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "b24bc30b7bb6bd7955e59b623b7e7ca5014040b3cdef07f759502329ba63a9ad"
+    },
+    {
+      "id": "C249",
+      "bbox": [
+        1040,
+        1230,
+        1098,
+        1325
+      ],
+      "dimensions": [
+        58,
+        95
+      ],
+      "original_crop_raw_rgb_sha256": "fa9920f85c4052d59fe03b7262cad0b4d827ee9f516b0a2aee6de175f190b40c"
+    }
+  ],
+  "validation": [
+    {
+      "id": "V01",
+      "bbox": [
+        1082,
+        915,
+        1140,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "10d9bb77d3f3e622257c7a1540704e15233e77ee4faa6a8942f77265604f38de"
+    },
+    {
+      "id": "V02",
+      "bbox": [
+        394,
+        1125,
+        452,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "ef3171f4dcd856b014c551f902d08718efc86f553007e50b279ca2855ca2efdd"
+    },
+    {
+      "id": "V03",
+      "bbox": [
+        2214,
+        1125,
+        2272,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "ec987927dd452e046cfdb3d396a2c88fa05db63b3a69bb3d160b764ba73bca3d"
+    },
+    {
+      "id": "V04",
+      "bbox": [
+        1476,
+        1125,
+        1534,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "f0c00a9cf73d53edc668f68a6c274cf6f98c335de86a20df47fc5aa01dd0f604"
+    },
+    {
+      "id": "V05",
+      "bbox": [
+        1216,
+        915,
+        1274,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "5a44e3cc985ee4d7ba038c573eb1812186984e029feff6ff604cbcf8f230b69b"
+    },
+    {
+      "id": "V06",
+      "bbox": [
+        2600,
+        915,
+        2658,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "c0ba6a1375044a4b4752469cea4b0cc90944e186c23a73960703f25cfad2d79a"
+    },
+    {
+      "id": "V07",
+      "bbox": [
+        2122,
+        915,
+        2180,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "a6ed985e875c02ae6dd6284758d8c698ffaf1a31928e586bd37a0b6541dcb33c"
+    },
+    {
+      "id": "V08",
+      "bbox": [
+        2516,
+        915,
+        2574,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "42cb5195cd6b12ef1a99002e46bb56568656b9fbcd2ec872a8f72171d0e96aa4"
+    },
+    {
+      "id": "V09",
+      "bbox": [
+        1736,
+        1125,
+        1794,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "d6ced48f9e1250f6d4d7345bae7558fac63b5e3612deb085fba3d17c70001766"
+    },
+    {
+      "id": "V10",
+      "bbox": [
+        654,
+        1125,
+        712,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "bc2c23c388568d6026ea3088e31b29952e6ef3104b2d57d4ffaa4116e2d1be43"
+    }
+  ],
+  "target": [
+    {
+      "id": "target306",
+      "bbox": [
+        1434,
+        1325,
+        1492,
+        1435
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "512a8bb360073b605b385cd5fa5303f2ff49e3b25e910ba013639a6046697686"
+    },
+    {
+      "id": "group_locator",
+      "bbox": [
+        1405,
+        1325,
+        1700,
+        1435
+      ],
+      "dimensions": [
+        295,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "5519cdcbc1f5a19444cc033acbe17ed01c687e536d4f346d81712a1fc0d47e7b"
+    }
+  ],
+  "stress": [
+    {
+      "id": "V01",
+      "bbox": [
+        1082,
+        915,
+        1140,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "10d9bb77d3f3e622257c7a1540704e15233e77ee4faa6a8942f77265604f38de"
+    },
+    {
+      "id": "V02",
+      "bbox": [
+        394,
+        1125,
+        452,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "ef3171f4dcd856b014c551f902d08718efc86f553007e50b279ca2855ca2efdd"
+    },
+    {
+      "id": "V03",
+      "bbox": [
+        2214,
+        1125,
+        2272,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "ec987927dd452e046cfdb3d396a2c88fa05db63b3a69bb3d160b764ba73bca3d"
+    },
+    {
+      "id": "V04",
+      "bbox": [
+        1476,
+        1125,
+        1534,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "f0c00a9cf73d53edc668f68a6c274cf6f98c335de86a20df47fc5aa01dd0f604"
+    },
+    {
+      "id": "V05",
+      "bbox": [
+        1216,
+        915,
+        1274,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "5a44e3cc985ee4d7ba038c573eb1812186984e029feff6ff604cbcf8f230b69b"
+    },
+    {
+      "id": "V06",
+      "bbox": [
+        2600,
+        915,
+        2658,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "c0ba6a1375044a4b4752469cea4b0cc90944e186c23a73960703f25cfad2d79a"
+    },
+    {
+      "id": "V07",
+      "bbox": [
+        2122,
+        915,
+        2180,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "a6ed985e875c02ae6dd6284758d8c698ffaf1a31928e586bd37a0b6541dcb33c"
+    },
+    {
+      "id": "V08",
+      "bbox": [
+        2516,
+        915,
+        2574,
+        1025
+      ],
+      "dimensions": [
+        58,
+        110
+      ],
+      "original_crop_raw_rgb_sha256": "42cb5195cd6b12ef1a99002e46bb56568656b9fbcd2ec872a8f72171d0e96aa4"
+    },
+    {
+      "id": "V09",
+      "bbox": [
+        1736,
+        1125,
+        1794,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "d6ced48f9e1250f6d4d7345bae7558fac63b5e3612deb085fba3d17c70001766"
+    },
+    {
+      "id": "V10",
+      "bbox": [
+        654,
+        1125,
+        712,
+        1230
+      ],
+      "dimensions": [
+        58,
+        105
+      ],
+      "original_crop_raw_rgb_sha256": "bc2c23c388568d6026ea3088e31b29952e6ef3104b2d57d4ffaa4116e2d1be43"
+    }
+  ]
+}

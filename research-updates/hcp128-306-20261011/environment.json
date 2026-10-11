@@ -1,0 +1,8 @@
+{
+  "python": "3.13.9 (main, Nov 26 2025, 02:17:55) [Clang 17.0.0 (clang-1700.4.4.1)]",
+  "pillow": "11.3.0",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "random_seed_validation_order": 306,
+  "source_reading_role": "Codex AI manual visual inspection; independently reviewed by separate Codex AI agent",
+  "network": "source downloaded via authorized original URL; no access restriction bypass"
+}
