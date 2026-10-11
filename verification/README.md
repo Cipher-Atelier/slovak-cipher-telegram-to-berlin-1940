@@ -87,6 +87,16 @@ The following are the expected status/topic/replay fields; the actual report als
 
 In ordinary words: **Three states of 456 positions, each retaining three unknowns; unused cipher letters `cglz`; 24 equivalent unused-alphabet completions.**
 
+## Separate source-shape arithmetic — 11 October 2026
+
+The default checker above covers the three older saved states. It does not run the [new source-shape package](../research-updates/hcp128-306-20261011/README.md). With Python 3.10+, standard library only, from the repository root:
+
+```sh
+python3 research-updates/hcp128-306-20261011/run_experiment.py --verify-recorded
+```
+
+Expected operator calls: 13/13, 8/10 and 0/10; independent calls: 11/13 and 7/10. The command recomputes arithmetic from saved observations; it does not regenerate perceptual judgments. Independent validation fails and the target remains `?` with source alternatives `v/w`. Failed validation is the recorded research outcome, rather than a software error. Optional pixel review requires the exact authorized image and Pillow, with separate instructions in the package README.
+
 ## What passing does not establish
 
 A passing replay does not decide every source sign, repair malformed words or recover the fertilizer quantity. Historical cleartext or another independently identified same-key message would be stronger evidence.

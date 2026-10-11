@@ -22,6 +22,8 @@ sdejpolyakoviabypoziadalbergemana
 
 This is the beginning of the saved output, with word spacing and accents omitted. The research account explains the proposed message in ordinary prose.
 
+The [11 October source-shape check](research-updates/hcp128-306-20261011/README.md) left position 306 unresolved as `?` with encrypted-source alternatives `v/w`; independent validation failed. The [provenance follow-up](research-updates/hcp128-source-provenance-20261011.md) locates a fonds, without recovering an exact inventory entry or folio. Positions 158 and 428 also remain unresolved. No complete polished translation is included.
+
 A passing replay does not decide every source sign, repair malformed words or recover the fertilizer quantity. Historical cleartext or another independently identified same-key message would be stronger evidence.
 
 ## Check one example by hand
