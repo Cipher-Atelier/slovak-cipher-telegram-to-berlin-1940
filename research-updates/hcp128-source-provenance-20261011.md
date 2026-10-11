@@ -103,3 +103,46 @@ alternate target scan, scan request or redistribution permission was obtained he
 
 Codex assisted this bounded provenance check. This separate note does not revise
 the previously frozen negative experiment or its disclosed deviations.
+
+## Separate follow-up: availability of the two inventories
+
+A further bounded check followed the newly identified inventory bibliography.
+The already visited URLs above were first checked against this log; the official
+service was revisited specifically for its **Archival finding aids** list and new
+author searches, rather than repeating `6315`, `cementu` or the target-reading
+search. No relevant 1940/Berlin/outgoing-correspondence sections could be examined,
+because neither named inventory's pages were obtained.
+
+The previously advertised [EHRI EAD 2002 metadata export](https://portal.ehri-project.eu/units/sk-003250-3768/export?format=ead&asFile=true)
+was downloaded without authentication and parsed locally. It is **7,191 bytes**,
+SHA256 `dd01e95d123c6e0db3e63235b175f26958f06a850d2d210d58e72204d745c949`.
+It contains one fonds description and an `otherfindaid` paragraph naming the two
+printed inventories. It contains **zero component records**, **zero digital-object
+elements** (`dao`, `daogrp`, `daoloc`), and **zero external-reference or link
+elements** (`extref`, `ref`) or `href` attributes. It is an export of descriptive
+metadata, not a digital copy of either inventory or an item-level catalogue. The
+unmodified XML was retained locally; no scan was published.
+
+The official SNA archive view displayed **eight** named finding-aid links, none
+for MZV. The expanded search offered whole-document/name/metadata modes, languages
+and dates, but no visible finding-aid-only filter. With whole-document search in
+SNA, `Koledová` returned no matching documents. `Bielik` returned four mining-map
+records and the unrelated finding aid `2 Vavro Šrobár`; no MZV inventory. This
+positive result shows that the search can expose a finding-aid record; it does not
+prove that every inventory or author is indexed. Unrelated records were not opened.
+
+New focused discovery queries combined the exact MZV title with `Bielik inventár`
+and `Koledová 1994`, plus `site:minv.sk "3768" "inventár"` and
+`site:minv.sk "Slovenský národný archív" "archívne pomôcky"`. No direct official or
+EHRI-linked digital inventory was identified in the results. A secondary journal
+search snippet cited Koledová's inventory; it was not a copy of that inventory,
+and the web reader could not fetch the large journal PDF. That snippet is not used
+to establish an inventory entry, box or folio.
+
+**Precise stopping point:** the accessible EHRI material provides bibliographic
+descriptions, while the inspected official catalogue provides no matching digital
+inventory. Public availability elsewhere remains unknown. The inventory number,
+folio and independent confirmation of box 39 remain unresolved. Further progress
+requires obtaining one of the actual inventories through a permitted route; no
+registration, agreement acceptance, request, purchase or correspondence was made.
+This follow-up stops here and makes no new decipherment claim.
